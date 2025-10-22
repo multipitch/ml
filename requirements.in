@@ -1,5 +1,11 @@
+black[jupyter]
+isort
+flake8
+flake8-bugbear
+flake8-pyproject
 jupyterlab
 matplotlib
+mypy
 numpy
 pip-tools
 scipy
